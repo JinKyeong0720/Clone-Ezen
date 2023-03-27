@@ -1,4 +1,4 @@
-package Lv10_Notion_clone;
+package Lv10_clone;
 
 import java.util.ArrayList;
 

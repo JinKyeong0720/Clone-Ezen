@@ -1,4 +1,4 @@
-package Lv10_Notion_clone;
+package Lv10_clone;
 
 class UserManager{
 	// 1. 생성자를 Private으로 정의
